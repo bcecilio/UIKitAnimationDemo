@@ -11,4 +11,8 @@ func challengeFunc() {
 
 ## Screenshot of app
 
-![home screen](Assests/homescreen.png)
+![home screen](Assests/homescreen1.png)
+
+## GIF
+
+![gif](Assests/app.gif)
